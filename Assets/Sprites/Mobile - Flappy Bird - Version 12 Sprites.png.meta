@@ -319,6 +319,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: BlueBid
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867cb17ab7609404fadd7095ebe5dde6
+      internalID: 1336563686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBid2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 171
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd63016fbd91d94ebf8608a943c8b4d
+      internalID: 179036717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBid3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba0459cf5885b4290ba6b42e8b20b0
+      internalID: 1999645796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -335,13 +398,15 @@ TextureImporter:
       BLUE_bird3: -1979229205
       Backgroud: 1242143873
       Backgroud2: -1444910425
+      BlueBid: -195999135
+      BlueBid2: 179036717
+      BlueBid3: 1999645796
       GameOver: -1683564938
       GetReadt: 74587808
       MEDAL1: 1527488625
       MEDAL2: -1044924456
       MEDAL3: 1100992062
       MEDAL4: -656803935
-      Mobile - Flappy Bird - Version 12 Sprites_0: -195999135
       Mobile - Flappy Bird - Version 12 Sprites_11: 1007933258
       Mobile - Flappy Bird - Version 12 Sprites_13: 1911193676
       Mobile - Flappy Bird - Version 12 Sprites_14: 1160086566
