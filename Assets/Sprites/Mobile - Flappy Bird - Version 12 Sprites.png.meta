@@ -391,7 +391,7 @@ TextureImporter:
         width: 26
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,6 +399,27 @@ TextureImporter:
       bones: []
       spriteID: 108f5f36008649d4abc2967876183b20
       internalID: 331062544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuGame
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 472
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ddfb454195fa44fafe5978ba1fc94a
+      internalID: 921091117
       vertices: []
       indices: 
       edges: []
@@ -428,6 +449,7 @@ TextureImporter:
       MEDAL2: -1044924456
       MEDAL3: 1100992062
       MEDAL4: -656803935
+      MenuGame: 921091117
       Mobile - Flappy Bird - Version 12 Sprites_11: 1007933258
       Mobile - Flappy Bird - Version 12 Sprites_13: 1911193676
       Mobile - Flappy Bird - Version 12 Sprites_14: 1160086566
